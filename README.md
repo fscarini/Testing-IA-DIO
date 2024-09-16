@@ -7,10 +7,10 @@ Neste desafio, tive a tarefa de pesquisar algumas IAs e realizar alguns testes p
 ## ADA AI
 A ada é um assistente virtual em formato de chat que pode ser treinada através de ordens, regras e leituras de sites html. Alimentei a ferramenta com o site da minha empresa e com isso obtive alguns resultados interessantes para algumas perguntas. Deem uma olhada:
 <p align="center">
-  <img witdh="470" src="src/Treinamneto.jpg">
+  <img witdh="470" src="src/Treinamento.jpg">
 </p>
 <p align="center">
-  <img witdh="470" src="src/Treinamneto1.jpg">
+  <img witdh="470" src="src/Treinamento1.jpg">
 </p>
 
 ## Gamma AI
