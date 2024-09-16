@@ -18,6 +18,4 @@ Ao pesquiasar algumas IAs que poderiam ser interessantes para o meu dia a dia, c
 <p align="center">
   <img witdh="470" src="src/Slide.jpg">
 </p>
-<p align="center">
-  <img witdh="470" src="src/Slide1.jpg">
-</p>
+
